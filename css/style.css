@@ -19,6 +19,8 @@ body{
     display: block;
     color: white;
     text-align: center;
+    width: 930px;
+    margin: auto;
 }
 
 .principal img{
