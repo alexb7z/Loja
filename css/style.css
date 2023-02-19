@@ -58,6 +58,11 @@ h2{
     padding: 1%;
 }
 
+.center{
+    display: contents;
+    width: 930px;
+}
+
 .left{
     display: flex;
     margin-right: 1%;
