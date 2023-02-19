@@ -3,6 +3,10 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
+header{
+    width: 98%;
+}
+
 .logo{
     display: flex;
     background-color: white;
